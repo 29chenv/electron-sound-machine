@@ -7,7 +7,7 @@
     "package": "electron-packager ./ sound -all --out ~/Desktop/SoundMachine  --overwrite --icon=./app/img/app-icon.icns"
   },
   "devDependencies": {
-    "electron": "^5.0.3",
+    "electron": "^13.6.6",
     "electron-packager": "^13.1.1",
     "electron-prebuilt": "^0.30.8"
   },
